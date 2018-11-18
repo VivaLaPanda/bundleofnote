@@ -1,0 +1,26 @@
+{
+  "name": "bundleofnote",
+  "version": "1.0.0",
+  "description": "text editor",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bundleofivan/bundleofnote.git"
+  },
+  "keywords": [
+    "text",
+    "editor"
+  ],
+  "author": "Ivan Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bundleofivan/bundleofnote/issues"
+  },
+  "homepage": "https://github.com/bundleofivan/bundleofnote#readme",
+  "dependencies": {
+    "electron": "^3.0.9"
+  }
+}
